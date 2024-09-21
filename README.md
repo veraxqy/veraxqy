@@ -5,11 +5,12 @@
 <!--<img align="right" height="auto" width="300" src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif"/>-->
 <span>Me chamo Elder, e sou apenas um rapaz latinoamericano de bigode que gosta de criar umas coisas. Desenvolvedor fullstack, interessado no campo da tecnologia em sua totalidade. Tenho experiências em banco de dados, programação, gerenciamento de projetos e uma grande afeição por front-end e design 👀🖌️</span>
 
-<img align="right" height="80" width="80" src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif"/>
+<img align="right" height="100" width="100" src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif"/>
   
 * 🖥️ Técnico em Informática - IFRN/CA <br>
 * 💾 Graduando em Sistemas de Informações - UFRN/CA
 
+> Algumas pessoas leem "Guerra e Paz" e acham que é um simples romance. Outras pessoas leem uma embalagem de chiclete e desvendam os segredos do universo. <br> - Lex Luthor
 
 #
 
