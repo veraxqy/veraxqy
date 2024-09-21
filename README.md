@@ -1,7 +1,17 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/> 
 <h2 align="center">
-  Opa, tudo bom? Eu sou Elder! ☀️
+  ☀️ Opa, tudo bom? Eu sou Elder!
 </h2>
+
+<!--<img align="right" height="auto" width="300" src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif"/>-->
+<span>Me chamo Elder, e sou apenas um rapaz latinoamericano de bigode que gosta de criar umas coisas. Desenvolvedor fullstack, interessado no campo da tecnologia em sua totalidade. Tenho experiências em banco de dados, programação, gerenciamento de projetos e uma grande afeição por front-end e design 👀🖌️</span>
+
+<img align="right" height="100" width="100" src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif"/>
+  
+* 🖥️ Técnico em Informática - IFRN/CA <br>
+* 💾 Graduando em Sistemas de Informações - UFRN/CA
+
+
+#
 
 <div align="center">
   <a href="https://veraxqy.github.io/">
@@ -26,6 +36,7 @@
 
 #
 <div align="center">
+  <a href="mailto:veraxqy@gmail.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/veraxqy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/veraxqy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/veraxqy.ui/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -34,4 +45,3 @@
 <div align="center">
   <img heigth="70" width="70" src="https://i.pinimg.com/originals/31/b5/43/31b54320ec8fa9b229c275bade869541.gif"/>
 </div>
-
