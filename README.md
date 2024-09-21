@@ -10,8 +10,6 @@
 * 🖥️ Técnico em Informática - IFRN/CA <br>
 * 💾 Graduando em Sistemas de Informações - UFRN/CA
 
-> Algumas pessoas leem "Guerra e Paz" e acham que é um simples romance. Outras pessoas leem uma embalagem de chiclete e desvendam os segredos do universo. <br> - Lex Luthor
-
 #
 
 <div align="center">
@@ -42,7 +40,12 @@
   <a href="https://www.linkedin.com/in/veraxqy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/veraxqy.ui/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-<br>
+
+<div align="center">
+  
+  ###### "Algumas pessoas leem 'Guerra e Paz' e acham que é um simples romance. <br>Outras pessoas leem uma embalagem de chiclete e desvendam os segredos do universo." <br> - Lex Luthor
+</div>
+
 <div align="center">
   <img heigth="70" width="70" src="https://i.pinimg.com/originals/31/b5/43/31b54320ec8fa9b229c275bade869541.gif"/>
 </div>
