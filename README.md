@@ -13,7 +13,6 @@
 #
 
 <div align="center">
-  <a href="https://veraxqy.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=veraxqy&count_private=true&show_icons=true&title_color=FFED4D&text_color=F0F6FC&icon_color=FFE88A&bg_color=0D1117&locale=pt-BR&hide_border=True&include_all_commits=True&"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veraxqy&title_color=FFED4D&text_color=F0F6FC&icon_color=FFE88A&bg_color=0D1117&locale=pt-BR&hide_border=True&layout=compact"/>
 </div>
@@ -26,10 +25,10 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
 </div>
 
