@@ -1,9 +1,9 @@
 <h2 align="center">
-  ☀️ Opa, tudo bom? Eu sou Elder!
+  ☀️ Bem vindo ao meu perfil do <b>GitHub</b>!
 </h2>
 
 <!--<img align="right" height="auto" width="300" src="https://i.pinimg.com/originals/24/41/da/2441dacfd5703b140a2816f82bd0f9c7.gif"/>-->
-<span>Me chamo Elder, e sou apenas um rapaz latinoamericano de bigode que gosta de criar umas coisas. Desenvolvedor fullstack, interessado no campo da tecnologia em sua totalidade. Tenho experiências em banco de dados, programação, gerenciamento de projetos e uma grande afeição por front-end e design 👀🖌️</span>
+<span>Olá! Meu nome é Elder. Sou desenvolvedor com bastante interesse em tecnologia. Tenho experiência em bancos de dados, programação, gerenciamento de projetos e uma forte afinidade com front-end e design. Gosto de criar, experimentar e transformar ideias em soluções funcionais — tudo isso com um toque de criatividade e originalidade.</span>
 
 <img align="right" height="70" width="70" src="https://i.pinimg.com/originals/03/78/f0/0378f01f2ace7b84bf01c7bb28b50df1.gif"/>
   
@@ -23,12 +23,16 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />
 </div>
 
